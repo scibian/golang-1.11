@@ -10,7 +10,7 @@ export GOROOT_FINAL := /usr/lib/go-$(GOVER)
 # We need DEB_HOST_ARCH, so include the needed makefile snippet
 include /usr/share/dpkg/architecture.mk
 
-RUN_TESTS := true
+RUN_TESTS := false
 # armel: ???
 # ppc64: ???
 ifneq (,$(filter armel ppc64,$(DEB_HOST_ARCH)))
