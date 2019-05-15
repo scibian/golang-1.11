@@ -1,3 +1,9 @@
+golang-1.11 (1.11.6-1sci9u2) scibian9; urgency=medium
+
+  * New Version release
+
+ -- MHamed Bouaziz <mhamed-externe.bouaziz@edf.fr>  Wed, 15 May 2019 17:07:22 +0200
+
 golang-1.11 (1.11.6-1sci9u1) scibian9; urgency=medium
 
   *New Upstream version.
