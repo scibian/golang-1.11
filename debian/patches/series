@@ -1,0 +1,9 @@
+0001-Reproducible-BUILD_PATH_PREFIX_MAP.patch
+0002-Fix-Lintian-warnings-about-wrong-interpreter-path.patch
+0003-arm64-arm64asm-recognise-new-ssbb-pssbb-mnemonics-fr.patch
+0004-fix-Fstatat-by-using-fillStat_t-on-linux-mips64x.patch
+0005-Fix-CVE-2019-9512-and-CVE-2019-9514.patch
+0006-Fix-CVE-2019-14809.patch
+0007-Fix-CVE-2019-16276.patch
+0008-Fix-CVE-2019-17596.patch
+0009-Fix-CVE-2020-7919.patch
