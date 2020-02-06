@@ -1,3 +1,16 @@
+golang-1.11 (1.11.6-1sci9u3) scibian9; urgency=medium
+
+  * Add paches from debian buster
+  * Add security patches:
+    - CVE-2019-9512
+    - CVE-2019-9514
+    - CVE-2020-7919
+    - CVE-2019-14809
+    - CVE-2019-16276
+    - CVE-2019-17596
+
+ -- Cristian RUIZ <cristian-externe.ruiz@edf.fr>  Thu, 06 Feb 2020 15:44:50 +0100
+
 golang-1.11 (1.11.6-1sci9u2) scibian9; urgency=medium
 
   * New Version release
